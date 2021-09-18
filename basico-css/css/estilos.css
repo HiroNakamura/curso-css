@@ -1,6 +1,33 @@
 /** Estilos CSS */
 
+body{
+	background-color: #390146;
+	color: #e4d7e5;
+}
+
+h1{}
+
+h2{}
 
 
- 
+div{}
+
+div p{}
+
+section{}
+section p{}
+
+header{} 
+
+header h1{
+	color: #05dbe1;
+}
+
+article h2{
+	color: #9a7ad2;
+}
+
+footer{
+	color: #b706c1;
+}
 

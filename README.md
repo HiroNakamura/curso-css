@@ -108,3 +108,22 @@ Para invocar
 <element id="textoGrande"/>
 <element id="textoGrandeCentrado"/>
 ```
+
+
+##Extensiones en Visual Studio Code
+
+1. Live Server.
+2. Prettier - Code formatter.
+3. HTML CSS Support.
+4. Intellisense for CSS Class Names.
+
+
+
+Enlaces:
+* [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
+* [https://jsbin.com/](https://jsbin.com/)
+* [https://css-irl.info/](https://css-irl.info/)
+* [https://html-color-codes.info/](https://html-color-codes.info/)
+* [https://htmlcolorcodes.com/es/](https://htmlcolorcodes.com/es/)
+
+
