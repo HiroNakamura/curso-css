@@ -119,10 +119,6 @@ Para invocar
 
 
 
-
-
-
-
 Enlaces:
 * [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
 * [https://jsbin.com/](https://jsbin.com/)

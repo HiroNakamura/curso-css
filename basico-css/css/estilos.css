@@ -14,6 +14,9 @@ div{}
 
 div p{}
 
+div img{
+	width: 5%;
+}
 section{}
 section p{}
 
